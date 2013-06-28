@@ -35,7 +35,7 @@ global.PngUnpack = PngUnpack;
  * @type {string}
  * @const
  */
-var ChunkName = 'plen'; // padding length
+var ChunkName = 'plEN'; // padding length
 
 /** @type {HTMLCanvasElement} */
 var packCanvas = document.createElement('canvas');
